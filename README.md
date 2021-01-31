@@ -1,1 +1,1 @@
-# Python_scaffold
+Boilerplate code for setting up an environment.
