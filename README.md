@@ -1,1 +1,1 @@
-Basic code for setting up an environment.
+Basic code for setting up a cloud environment.
