@@ -1,5 +1,13 @@
-pylint
+autoflake
+black==21.10b0
+ipykernel
+isort
+matplotlib
+numpy
+pandas
+pre-commit
 pytest
-click
-black
-pytest-cov
+python-dotenv
+pylint
+seaborn
+tqdm
