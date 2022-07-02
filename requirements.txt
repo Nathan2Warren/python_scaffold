@@ -1,5 +1,6 @@
 autoflake
 black==21.10b0
+flake8
 ipykernel
 isort
 matplotlib
@@ -8,6 +9,5 @@ pandas
 pre-commit
 pytest
 python-dotenv
-pylint
 seaborn
 tqdm
